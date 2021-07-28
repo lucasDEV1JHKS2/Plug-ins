@@ -1,0 +1,7 @@
+name: S_Controle
+main: me.puti.controle.Controle
+version: 1.0.10
+author: [SrPuti_]
+commands:
+  system:
+   aliases: [sistema,s_plugins]
