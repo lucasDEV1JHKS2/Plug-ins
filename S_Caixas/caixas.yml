@@ -1,0 +1,20 @@
+caixas:
+  Basica:
+    id: '54:0'
+    tipo: Basica
+    valor: 10000 #Coins
+    nome: '&e[Caixa Básica]'
+    lore:
+    - ''
+    - '&7Clique para abrir a caixa &6BASICA&7.'
+    - ''
+    itens:
+      DIRT:
+        id: '3:0'
+        porcentagem: 1%
+        name: '&e[Terra]'
+        lore:
+        - ""
+        - "&7Você adquiriu um terra na caixa básica."
+        - ""
+        

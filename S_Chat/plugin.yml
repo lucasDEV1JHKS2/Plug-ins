@@ -1,0 +1,9 @@
+name: S_Chat
+main: me.puti.chat.Main
+version: 1.0.9
+author: [SrPuti_]
+commands:
+  g:
+    aliases: [global]
+  tell:
+    aliases: [privado]

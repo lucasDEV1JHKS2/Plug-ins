@@ -1,0 +1,6 @@
+name: S_Armazem
+main: me.puti.armazem.Main
+version: 1.0.9
+author: [SrPuti_]
+commands:
+  armazem:

@@ -1,0 +1,6 @@
+name: S_Caixas
+main: me.puti.caixas.Main
+version: 1.0.13
+author: [SrPuti_]
+commands:
+  caixa:
