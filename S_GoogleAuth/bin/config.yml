@@ -1,0 +1,3 @@
+configuracao:
+  Sistema: Login Padrao # 1: GoogleAuth 2: Login Padrao
+  Conta_Original: Sim # Sim = 'AS contas originais irão passar direto sem login;registro' 

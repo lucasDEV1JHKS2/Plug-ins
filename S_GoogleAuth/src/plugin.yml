@@ -1,0 +1,9 @@
+name: S_GoogleAuth
+version: 1.0.9
+main: me.puti.google.Main
+author: [SrPuti_]
+commands:
+  login:
+    aliases: [logar]
+  registrar:
+    aliases: [register]

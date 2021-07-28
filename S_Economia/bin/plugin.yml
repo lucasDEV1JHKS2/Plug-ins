@@ -1,0 +1,8 @@
+name: S_Economia
+main: me.puti.economia.Main
+version: 1.0.9
+author: [SrPuti_]
+commands:
+  saldo:
+   aliases: [money,dinheiro]
+  magnata:
